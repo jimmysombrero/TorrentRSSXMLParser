@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading.Tasks;
 
-namespace TorrentXMLParser
+namespace TorrentRSSXMLParser
 {
     class Program
     {
